@@ -2,7 +2,7 @@
 
 This sensor was engeneered by Alphasense.
 
-![alt text](http://www.alphasense.com/WEB1213/wp-content/uploads/2015/03/OPC-group.jpg)
+![alt text](http://www.alphasense.com/WEB1213/wp-content/uploads/2015/03/OPC-group-1024x402.jpg)
 
 You will find the 3d versions (.stl, .obj, .step) in the main directory.
 
